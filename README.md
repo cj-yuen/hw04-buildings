@@ -5,6 +5,16 @@ For my references, I chose a cyberpunk/brutalist building style. <br>
 | ![](https://cdna.artstation.com/p/assets/images/images/033/777/210/large/mark-foreman-mark-foreman-cyberpunk2077-megabuildings-01.jpg?1610542907) | ![](https://i0.wp.com/carolinapublicpress.org/wp-content/uploads/2025/02/Bath-Building-scaled.jpg?w=2560&ssl=1) | ![](https://cdna.artstation.com/p/assets/images/images/036/455/590/large/dmitry-lastovka-0007.jpg?1617727400) |
 | :--: | :--: | :--: |
 | Cyberpunk 2077 Mega Building: https://www.artstation.com/artwork/rAdYwJ | Brutalist Building: https://carolinapublicpress.org/68800/buildings-nc-brutalist-demolition/ | Cyberpunk Apartment: https://artbdraw.artstation.com/projects/lxd6GG |
+### Architectural Features:
+- square base with block-like floors
+- some emergency stairs along with squarish windows
+- rigid ledges/paneling & blocky corners
+### Main Assets:
+- stairs
+- windows
+- shell-like outer paneling
+- bright-glowing signboards/logos
+- building vents/air conditioner blocks
 --- 
 
 ## Project Overview
