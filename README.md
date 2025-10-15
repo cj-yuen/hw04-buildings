@@ -1,4 +1,11 @@
 # CIS 5660 HW04 Procedural Buildings
+## Project Overview
+## Part 0: Project Planning:
+For my references, I chose a cyberpunk/brutalist building style. <br>
+| ![](https://cdna.artstation.com/p/assets/images/images/033/777/210/large/mark-foreman-mark-foreman-cyberpunk2077-megabuildings-01.jpg?1610542907) | ![](https://i0.wp.com/carolinapublicpress.org/wp-content/uploads/2025/02/Bath-Building-scaled.jpg?w=2560&ssl=1) | ![](https://cdna.artstation.com/p/assets/images/images/036/455/590/large/dmitry-lastovka-0007.jpg?1617727400) |
+| :--: | :--: | :--: |
+| Cyberpunk 2077 Mega Building: https://www.artstation.com/artwork/rAdYwJ | Brutalist Building: https://carolinapublicpress.org/68800/buildings-nc-brutalist-demolition/ | Cyberpunk Apartment: https://artbdraw.artstation.com/projects/lxd6GG |
+--- 
 
 ## Project Overview
 In this homework you’ll gain more experience with tool creation and loops. The core of this homework will be following a Procedural House tutorial to create a multi-floor building generator. The tutorial is linked here: 
